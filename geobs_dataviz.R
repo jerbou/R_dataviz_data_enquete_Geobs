@@ -49,6 +49,10 @@ library(ade4)
 # dossier de travail ------------------------------------------------------
 setwd("G:/00_data_ref/data_gouv_fr/geobs")
 
+
+# URL SOURCE --------------------------------------------------------------
+# URL SOURCE https://www.data.gouv.fr/fr/organizations/umr-5319-passages/
+
 geobs_animidg_2017 <- read_delim("G:/00_data_ref/data_gouv_fr/geobs/GEOBS_AnimationsIDG2017.csv", 
                                            ";", escape_double = FALSE, trim_ws = TRUE)
 
