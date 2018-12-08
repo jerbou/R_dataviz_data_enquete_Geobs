@@ -3,5 +3,3 @@
 ### URL SOURCE :  https://www.data.gouv.fr/fr/organizations/umr-5319-passages/
 
 # pour illustrer le propros et le reperage de l'IDG
-
-# URL SOURCE --------------------------------------------------------------
